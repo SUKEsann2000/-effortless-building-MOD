@@ -1,5 +1,5 @@
 # -採掘ができるeffortles-building MOD-
-effortless building mod(curse forge)⇩
+effortless building mod(curse forge)→
 https://www.curseforge.com/minecraft/mc-mods/effortless-building
 これはeffortless building modのアドオンです。effortless buildingでは、採掘がクリエイティブモードでしかできませんでしたが、このMODを追加することによって採掘ができるようになります！対応バージョンは1.19.2で作ってあります！
 # -追加されるアイテム-
